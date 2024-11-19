@@ -1,0 +1,9 @@
+body{
+    padding-top: 10em;
+    background-color: #ccc;
+}
+
+.border-info{
+    padding: 1em;
+    background-color: rgb(242, 254, 254);
+}

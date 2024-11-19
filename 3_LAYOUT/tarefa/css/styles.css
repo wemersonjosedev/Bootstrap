@@ -1,0 +1,11 @@
+.col{
+    border: 1px solid red;
+    height: 50px;
+}
+
+.impares{
+    background-color: black;
+}
+.pares{
+    background-color:darkgrey;
+}

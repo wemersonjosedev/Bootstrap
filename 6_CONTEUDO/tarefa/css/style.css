@@ -1,0 +1,57 @@
+body{
+    margin-top: 5em;
+    background-color: rgba(252, 247, 230, 0.493);
+    align-items: center;
+}
+
+.container{
+    margin-top: 5em;
+    min-height: 800px;
+    border-bottom: 2px solid black;
+    align-items: center;
+}
+
+.header_image{
+    background-image: url(/6_CONTEUDO/tarefa/img/alice-dietrich-FwF_fKj5tBo-unsplash.jpg);
+    background-size:cover;
+    border-radius: 2em;
+}
+
+.text_img{
+    opacity: 0.7;
+    border-radius: 2em;
+}
+
+.text-center{
+    color: black;
+}
+
+.display-1{
+    font-weight: 300;
+    opacity: 2.7;
+}
+
+.display-6{
+    font-size: 1.2em;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.blockquote-footer{
+    font-size: 15px;
+}
+
+.cards{
+    display: inline-flex;
+    gap: 1em;
+}
+
+.table-card{
+    display: flex;
+    gap: 3em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    border: 1px solid rgb(0, 4, 255);
+    border-radius: 1em;
+    padding: 5em;
+}
